@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = s_coombe89@hotmail.co.uk
+	name = Stuart Coombe
